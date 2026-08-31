@@ -26,6 +26,7 @@ Here is a precise 4-line algorithm matching your aim:
 Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
 Developed by: Muruga S
 RegisterNumber:  212225040265
+*/
 import pandas as pd
 import numpy as np
 
@@ -139,7 +140,7 @@ print("---------------------")
 print("MAE  :", mae)
 print("RMSE :", rmse)
 print("R²   :", r2)
-*/
+
 ```
 
 ## Output:
